@@ -1,0 +1,24 @@
+﻿  main.cpp
+D:\Users\Xiangru\Desktop\Files\Case\2023 Fall\Force_Sensor\Force_Sensor_2010_static_cal\Force_Sensor_2010\include\ftsharedrt.h(41,1): warning C4005: 'TRUE': macro redefinition
+  (compiling source file 'main.cpp')
+  D:\Users\Xiangru\Desktop\Files\Case\2023 Fall\Force_Sensor\Force_Sensor_2010_static_cal\Force_Sensor_2010\include\NIDAQmx.h(100,1):
+  see previous definition of 'TRUE'
+  
+D:\Users\Xiangru\Desktop\Files\Case\2023 Fall\Force_Sensor\Force_Sensor_2010_static_cal\Force_Sensor_2010\include\ftsharedrt.h(42,1): warning C4005: 'FALSE': macro redefinition
+  (compiling source file 'main.cpp')
+  D:\Users\Xiangru\Desktop\Files\Case\2023 Fall\Force_Sensor\Force_Sensor_2010_static_cal\Force_Sensor_2010\include\NIDAQmx.h(103,1):
+  see previous definition of 'FALSE'
+  
+Force_Sensor_2010.lib(cATIForceSensor.obj) : warning LNK4099: PDB '' was not found with 'Force_Sensor_2010.lib(cATIForceSensor.obj)' or at ''; linking object as if no debug info
+Force_Sensor_2010.lib(cDaqHardwareInterface.obj) : warning LNK4099: PDB '' was not found with 'Force_Sensor_2010.lib(cDaqHardwareInterface.obj)' or at ''; linking object as if no debug info
+Force_Sensor_2010.lib(cForceSensor.obj) : warning LNK4099: PDB '' was not found with 'Force_Sensor_2010.lib(cForceSensor.obj)' or at ''; linking object as if no debug info
+Force_Sensor_2010.lib(dom.obj) : warning LNK4099: PDB '' was not found with 'Force_Sensor_2010.lib(dom.obj)' or at ''; linking object as if no debug info
+Force_Sensor_2010.lib(expatls.obj) : warning LNK4099: PDB '' was not found with 'Force_Sensor_2010.lib(expatls.obj)' or at ''; linking object as if no debug info
+Force_Sensor_2010.lib(ftconfig.obj) : warning LNK4099: PDB '' was not found with 'Force_Sensor_2010.lib(ftconfig.obj)' or at ''; linking object as if no debug info
+Force_Sensor_2010.lib(ftrt.obj) : warning LNK4099: PDB '' was not found with 'Force_Sensor_2010.lib(ftrt.obj)' or at ''; linking object as if no debug info
+Force_Sensor_2010.lib(node.obj) : warning LNK4099: PDB '' was not found with 'Force_Sensor_2010.lib(node.obj)' or at ''; linking object as if no debug info
+Force_Sensor_2010.lib(stack.obj) : warning LNK4099: PDB '' was not found with 'Force_Sensor_2010.lib(stack.obj)' or at ''; linking object as if no debug info
+Force_Sensor_2010.lib(xmlparse.obj) : warning LNK4099: PDB '' was not found with 'Force_Sensor_2010.lib(xmlparse.obj)' or at ''; linking object as if no debug info
+Force_Sensor_2010.lib(xmlrole.obj) : warning LNK4099: PDB '' was not found with 'Force_Sensor_2010.lib(xmlrole.obj)' or at ''; linking object as if no debug info
+Force_Sensor_2010.lib(xmltok.obj) : warning LNK4099: PDB '' was not found with 'Force_Sensor_2010.lib(xmltok.obj)' or at ''; linking object as if no debug info
+  Force_Sensor_2010.vcxproj -> D:\Users\Xiangru\Desktop\Files\Case\2023 Fall\Force_Sensor\Force_Sensor_2010_static_cal\Debug\Force_Sensor_2010.exe

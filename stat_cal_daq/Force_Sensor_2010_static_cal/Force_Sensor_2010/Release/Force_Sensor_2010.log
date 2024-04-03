@@ -1,0 +1,15 @@
+﻿Force_Sensor_2010.lib(cForceSensor.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in main.obj
+Force_Sensor_2010.lib(cForceSensor.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in main.obj
+Force_Sensor_2010.lib(cForceSensor.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:ICF' specification
+Force_Sensor_2010.lib(cATIForceSensor.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in main.obj
+Force_Sensor_2010.lib(cATIForceSensor.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in main.obj
+Force_Sensor_2010.lib(cDaqHardwareInterface.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in main.obj
+Force_Sensor_2010.lib(cDaqHardwareInterface.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in main.obj
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+Force_Sensor_2010.lib(cForceSensor.obj) : error LNK2001: unresolved external symbol __imp___invalid_parameter
+Force_Sensor_2010.lib(cATIForceSensor.obj) : error LNK2001: unresolved external symbol __imp___invalid_parameter
+Force_Sensor_2010.lib(cDaqHardwareInterface.obj) : error LNK2001: unresolved external symbol __imp___invalid_parameter
+Force_Sensor_2010.lib(cForceSensor.obj) : error LNK2001: unresolved external symbol __imp___CrtDbgReport
+Force_Sensor_2010.lib(cATIForceSensor.obj) : error LNK2001: unresolved external symbol __imp___CrtDbgReport
+Force_Sensor_2010.lib(cDaqHardwareInterface.obj) : error LNK2001: unresolved external symbol __imp___CrtDbgReport
+C:\Users\Zonghe\Force_sensor_VS\Force_Sensor_2010_static_cal\Release\Force_Sensor_2010.exe : fatal error LNK1120: 2 unresolved externals
